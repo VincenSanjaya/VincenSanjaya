@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincensanjaya&show_icons=true&locale=en" alt="vincensanjaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincensanjaya&" alt="vincensanjaya" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21nzoo4dz2t2fy3shpt7ofmkq&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
