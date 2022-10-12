@@ -21,4 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincensanjaya&" alt="vincensanjaya" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21nzoo4dz2t2fy3shpt7ofmkq&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+### Now Playing 🎧
+
+[![Spotify](https://novatorem-maviswisanggeni.vercel.app/api/spotify?background_color=0D1117)](https://open.spotify.com/playlist/10U7jhB0y0cpt2oCEdnHZm?si=8567d9ae47c841e2)
+<br/>
