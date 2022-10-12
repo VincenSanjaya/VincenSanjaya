@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vincencio gabriel frederic sanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincencio gabriel frederic sanjaya" height="30" width="40" /></a>
-<a href="https://fb.com/vincen sanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vincen sanjaya" height="30" width="40" /></a>
-<a href="https://instagram.com/vincensz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vincensz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vincencio gabriel frederic sanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/vincensanjaya/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincencio gabriel frederic sanjaya" height="30" width="40" /></a>
+<a href="https://fb.com/vincen sanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/vincensanjaya/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vincen sanjaya" height="30" width="40" /></a>
+<a href="https://instagram.com/vincensz" target="blank"><img align="center" src="https://raw.githubusercontent.com/vincensanjaya/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vincensz" height="30" width="40" /></a>
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
@@ -20,7 +20,7 @@
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VincenSanjaya&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=vincensanjaya&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 
 ### Thanks for Visiting my GitHub Profile!
