@@ -1,3 +1,24 @@
+<h1 align="left">Hi 👋, I'm Vincen Sanjaya</h1>
+
+<h3 align="left">Cyber Security Student from Indonesia</h3>
+
+<p align="left">
+I am currently building hands-on cybersecurity projects focused on Blue Team operations, SOC analysis, threat hunting, detection engineering, network security, vulnerability assessment, and web security.
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=vincensanjaya&label=Profile%20Views&color=0e75b6&style=flat" alt="vincensanjaya" />
+</p>
+
+<h2>🛡️ About Me</h2>
+
+<p>
+🎓 Cyber Security Student<br>
+🔐 Interested in Blue Team, SOC, Threat Hunting, Detection Engineering, Network Security, and Web Security<br>
+🧪 Building practical cybersecurity labs and security projects<br>
+📚 Currently learning threat hunting, Windows security monitoring, incident response, and defensive security
+</p>
+
 <h2>🚀 Featured Cybersecurity Projects</h2>
 
 <h3>🔵 Wazuh SIEM Detection Lab</h3>
@@ -82,7 +103,7 @@ View Project
 <h3>📧 Phishing Email Analysis Lab</h3>
 
 <p>
-Email threat analysis project focused on phishing detection, IOC extraction, and authentication failures.
+Email threat analysis project focused on phishing detection, IOC extraction, authentication failures, and automated email triage.
 </p>
 
 <p>
@@ -144,3 +165,108 @@ Automated vulnerability assessment using Nmap, Nuclei, Bash, and Docker.
 <a href="https://github.com/vincensanjaya/automated-vulnerability-scanner">
 View Project
 </a>
+
+<h2>🛠️ Cybersecurity Tools</h2>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Sysmon-Windows%20Telemetry-0078D4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Zeek-Network%20Security-F5A623?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Suricata-IDS%2FIPS-EF3E36?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Nuclei-00ADEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-Security%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</p>
+
+<h2>💻 Programming & Development</h2>
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+
+</p>
+
+<h2>📈 Current Learning Path</h2>
+
+<p>
+✅ Web Application Security Assessment<br>
+✅ Automated Vulnerability Scanning<br>
+✅ SIEM Detection Engineering<br>
+✅ Network Intrusion Detection<br>
+✅ Phishing Email Analysis<br>
+✅ Windows EVTX Threat Hunting<br>
+⬜ Sysmon + Sigma Detection Engineering<br>
+⬜ Incident Response Investigation<br>
+⬜ Splunk / Microsoft Sentinel<br>
+⬜ Active Directory Security
+</p>
+
+<h2>🎯 Current Focus</h2>
+
+<p>
+My current focus is strengthening practical Blue Team and SOC skills, especially:
+</p>
+
+<p>
+• Windows Event Log investigation<br>
+• Threat hunting<br>
+• Detection engineering<br>
+• SIEM monitoring<br>
+• Network traffic analysis<br>
+• Incident investigation<br>
+• MITRE ATT&CK mapping
+</p>
+
+<h2>🤝 Connect with Me</h2>
+
+<div align="left">
+
+<a href="https://github.com/vincensanjaya" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/vincensz" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<h3 align="center">Thanks for visiting my GitHub profile 👋</h3>
