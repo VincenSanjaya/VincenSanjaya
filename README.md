@@ -257,7 +257,7 @@ My current focus is strengthening practical Blue Team and SOC skills, especially
 <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/vincensanjaya/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
