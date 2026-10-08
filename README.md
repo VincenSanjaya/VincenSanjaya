@@ -16,7 +16,7 @@ I am currently building hands-on cybersecurity projects focused on Blue Team ope
 🎓 Cyber Security Student<br>
 🔐 Interested in Blue Team, SOC, Threat Hunting, Detection Engineering, Network Security, and Web Security<br>
 🧪 Building practical cybersecurity labs and security projects<br>
-📚 Currently learning threat hunting, Windows security monitoring, incident response, and defensive security
+📚 Currently learning SIEM investigation, incident response, Windows security monitoring, and defensive security
 </p>
 
 <h2>🚀 Featured Cybersecurity Projects</h2>
@@ -48,6 +48,30 @@ Level 10 Brute-Force Alert
 </p>
 
 <a href="https://github.com/vincensanjaya/wazuh-siem-detection-lab">
+View Project
+</a>
+
+<br><br>
+
+<h3>🧩 Sigma Detection Engineering Lab</h3>
+
+<p>
+Detection engineering project focused on building, validating, and converting Sigma rules for suspicious Windows activity.
+</p>
+
+<p>
+<strong>Highlights:</strong><br>
+• Custom Sigma detection rules<br>
+• Encoded PowerShell detection<br>
+• LSASS process access detection<br>
+• Suspicious IIS child process detection<br>
+• Rundll32 abuse detection<br>
+• MITRE ATT&CK mapping<br>
+• Sigma rule validation<br>
+• Splunk query conversion
+</p>
+
+<a href="https://github.com/vincensanjaya/sigma-detection-engineering-lab">
 View Project
 </a>
 
@@ -172,6 +196,8 @@ View Project
 
 <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Sigma-Detection%20Engineering-6C63FF?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Sysmon-Windows%20Telemetry-0078D4?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/Zeek-Network%20Security-F5A623?style=for-the-badge" />
@@ -227,9 +253,10 @@ View Project
 ✅ Network Intrusion Detection<br>
 ✅ Phishing Email Analysis<br>
 ✅ Windows EVTX Threat Hunting<br>
-⬜ Sysmon + Sigma Detection Engineering<br>
+✅ Sigma Detection Engineering<br>
+⬜ Splunk SOC Investigation Lab<br>
 ⬜ Incident Response Investigation<br>
-⬜ Splunk / Microsoft Sentinel<br>
+⬜ Microsoft Sentinel<br>
 ⬜ Active Directory Security
 </p>
 
@@ -243,7 +270,7 @@ My current focus is strengthening practical Blue Team and SOC skills, especially
 • Windows Event Log investigation<br>
 • Threat hunting<br>
 • Detection engineering<br>
-• SIEM monitoring<br>
+• SIEM monitoring and investigation<br>
 • Network traffic analysis<br>
 • Incident investigation<br>
 • MITRE ATT&CK mapping
